@@ -1,6 +1,6 @@
 package vlem;
 /**
- * Created by valentin on 18/03/15.
+ * Created by valentin on 18/03/15. test push
  */
 public class Bowling implements InterfaceBowling {
     /**
